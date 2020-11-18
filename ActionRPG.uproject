@@ -163,7 +163,11 @@
 		{
 			"Name": "ChaosEditor",
 			"Enabled": false
-		}
+		},
+    {
+      "Name": "TargetSystem",
+      "Enabled": true
+    }
 	],
 	"TargetPlatforms": [
 		"Android",
